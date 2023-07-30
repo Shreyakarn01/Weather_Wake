@@ -1,0 +1,160 @@
+@media (max-width:1768px){
+        .style{
+            height:200vh;
+        }     
+}
+@media (max-width:1642px){
+        .style{
+            height:600vh;
+        }    
+        .desp{
+            margin: 0px 193px;
+            display: flex;
+            flex-direction: column;
+            width: 50vw;
+        } 
+}
+@media (max-width:1326px){
+        .nm{
+            margin:0px;
+        }
+}
+@media (max-width:878px){
+        .style{
+            width:98vw;
+            }
+}
+@media (max-width:670px){
+     .bel{
+        font-size: 40px;
+        margin: 20px;
+        display: flex;
+        flex-direction: column;
+        width: 50vw;
+        margin: 0px 196px;
+     }  
+     .info{
+        margin:9px;
+     } 
+     .new{
+        padding:0px 29px;
+     }
+}
+@media (max-width:592px){
+     .img{
+        display:flex;
+        margin:auto;
+     }
+     .desp{
+        margin:0px 143px;
+     }
+     .bel{
+        margin:0px 147px;
+     }
+}
+
+@media (max-width:502px){
+    .info{
+            margin: 9px -42px;
+            width: 58vw;
+            font-size:30px;
+        }
+    
+    .desp {
+        margin: 0px 94px;
+        display: flex;
+        flex-direction: column;
+        width: 59vw;
+    }
+    .writ{
+        font-size:33px;
+    }
+}
+@media (max-width:382px){
+    .writ{
+    font-size: 25px;
+    font-weight: 800;
+    }
+    .text{
+        font-size:16px;
+    }
+    .info{
+        font-size: 28px;
+        font-weight: 700;
+        width:70vw;
+    }
+    .img{
+        width:34px;
+    }
+    .writ2{
+        font-size: 17px;
+    }
+    .mid{
+        font-size: 35px;
+    }
+    .fl{
+        font-size:17px;
+        margin:-11px;
+    }
+}
+
+@media (max-width:340px){
+    .style{
+        height:450vh;
+    }
+    .desp{
+        margin:0px 70px;
+        width:80vw;
+        margin:0px 30px;
+    }
+    .bel{
+        margin:0px 105px;
+    }
+    /* .loc{
+        height: 42px;
+        width: 44px;
+    } */
+    .nm{
+        font-size: 29px;
+        margin: 0px 112px;
+    }
+    .info{
+        width:60vw;
+        margin:4px -46px;
+}
+}
+@media (max-width:274px){
+    .style{
+        width:100vw;
+    }
+    .info{
+        width:70vw;
+        margin:3px -64px;
+    }
+}
+@media (max-width:247px){
+    .style{
+        height:500vh;
+    }
+    .info{
+        width:78vw;
+        margin:3px -57px;
+    }
+    .imgdesc{
+        width:86vw;
+    }
+    .mid{
+        margin:0px 21px;
+    }
+    .de{
+        font-size: 20px;
+    }
+}
+@media (max-width:222px){
+    .info{
+        width:80vw;
+        margin: 3px -70px;
+    }
+}
+
+/* upto 214px screen width is responsive */
